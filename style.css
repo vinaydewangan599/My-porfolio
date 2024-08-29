@@ -1,0 +1,10 @@
+#wrapper-canvas canvas {
+    max-width: 100%;
+}
+:root{
+    --primary-color: #111;
+    --secondary-color:#edf2fc; 
+  }
+  #moon-icon{
+    cursor:pointer;
+  }
